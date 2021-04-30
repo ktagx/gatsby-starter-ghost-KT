@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://spainstartupnews.herokuapp.com",
+    "contentApiKey": "a69c1f3325153c4d06e3265ef6"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://spainstartupnews.herokuapp.com",
+    "contentApiKey": "a69c1f3325153c4d06e3265ef6"
   }
 }
